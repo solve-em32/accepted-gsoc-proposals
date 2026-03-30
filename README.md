@@ -32,7 +32,7 @@ A repository containing links to accepted proposals for GSoC, Hopefully this hel
 * Add GSoC Project link with the format `[link](<project link>)`
 
 NB: 
-* Please ensure that shared links are publicly accesible
+* Please ensure that the shared links are publically acessible
 * Please remove personal information from your proposals if you don't want to share them
 * To prospective students, this is only a pointer and proposal formats for your organization or mentors could vary, please ask questions to your organization/mentors on how your proposals can be formatted/Structured
 
